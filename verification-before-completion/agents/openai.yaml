@@ -1,0 +1,7 @@
+interface:
+  display_name: "完成前验证"
+  short_description: "在宣称工作完成、已修复或测试通过之前使用"
+  default_prompt: "使用 $verification-before-completion 验证工作成果"
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,7 @@
+interface:
+  display_name: "编写计划"
+  short_description: "当有规格说明或需求用于多步骤任务时使用"
+  default_prompt: "使用 $writing-plans 编写实现计划"
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zettelkasten Notes"
+  short_description: "Obsidian Zettelkasten card note workflow"
+  default_prompt: "Use $zettelkasten-notes to turn this learning material into Obsidian Zettelkasten notes."

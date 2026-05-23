@@ -1,0 +1,7 @@
+interface:
+  display_name: "工作流运行器"
+  short_description: "在 Claude Code 中直接运行 YAML 工作流"
+  default_prompt: "使用 $workflow-runner 运行工作流"
+
+policy:
+  allow_implicit_invocation: false

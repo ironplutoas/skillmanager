@@ -1,0 +1,7 @@
+interface:
+  display_name: "子代理驱动开发"
+  short_description: "当在当前会话中执行包含独立任务的实现计划时使用"
+  default_prompt: "使用 $subagent-driven-development 执行实现计划"
+
+policy:
+  allow_implicit_invocation: false

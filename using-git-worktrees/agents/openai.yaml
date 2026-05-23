@@ -1,0 +1,7 @@
+interface:
+  display_name: "使用 Git Worktrees"
+  short_description: "当需要隔离的功能开发或执行实现计划之前使用"
+  default_prompt: "使用 $using-git-worktrees 创建隔离的 git 工作树"
+
+policy:
+  allow_implicit_invocation: false

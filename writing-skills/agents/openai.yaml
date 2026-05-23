@@ -1,0 +1,7 @@
+interface:
+  display_name: "编写技能"
+  short_description: "当创建新技能、编辑现有技能或验证技能时使用"
+  default_prompt: "使用 $writing-skills 创建或编辑技能"
+
+policy:
+  allow_implicit_invocation: false

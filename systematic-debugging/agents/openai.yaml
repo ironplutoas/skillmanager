@@ -1,0 +1,7 @@
+interface:
+  display_name: "系统化调试"
+  short_description: "遇到任何 bug、测试失败或异常行为时使用"
+  default_prompt: "使用 $systematic-debugging 帮我系统化调试问题"
+
+policy:
+  allow_implicit_invocation: false

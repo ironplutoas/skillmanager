@@ -1,0 +1,7 @@
+interface:
+  display_name: "测试驱动开发"
+  short_description: "在实现任何功能或修复 bug 时使用，在编写实现代码之前"
+  default_prompt: "使用 $test-driven-development 进行测试驱动开发"
+
+policy:
+  allow_implicit_invocation: false
