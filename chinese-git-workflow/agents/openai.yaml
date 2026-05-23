@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文 Git 工作流"
+  short_description: "适配国内 Git 平台和团队习惯的工作流规范"
+  default_prompt: "使用 $chinese-git-workflow 指导我的 Git 工作流"
+
+policy:
+  allow_implicit_invocation: false

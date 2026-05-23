@@ -1,0 +1,7 @@
+interface:
+  display_name: "MCP 构建器"
+  short_description: "MCP 服务器构建方法论 — 系统化构建生产级 MCP 工具"
+  default_prompt: "使用 $mcp-builder 帮我构建 MCP 服务器"
+
+policy:
+  allow_implicit_invocation: false

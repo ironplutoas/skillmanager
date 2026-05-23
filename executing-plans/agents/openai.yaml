@@ -1,0 +1,7 @@
+interface:
+  display_name: "执行计划"
+  short_description: "当有书面实现计划需要在单独会话中执行时使用"
+  default_prompt: "使用 $executing-plans 执行实现计划"
+
+policy:
+  allow_implicit_invocation: false

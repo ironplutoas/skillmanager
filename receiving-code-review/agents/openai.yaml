@@ -1,0 +1,7 @@
+interface:
+  display_name: "接收代码审查"
+  short_description: "收到代码审查反馈后、实施建议之前使用"
+  default_prompt: "使用 $receiving-code-review 帮我处理代码审查反馈"
+
+policy:
+  allow_implicit_invocation: false

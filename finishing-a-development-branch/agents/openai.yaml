@@ -1,0 +1,7 @@
+interface:
+  display_name: "完成开发分支"
+  short_description: "当实现完成、需要决定如何集成工作时使用"
+  default_prompt: "使用 $finishing-a-development-branch 帮我完成分支收尾工作"
+
+policy:
+  allow_implicit_invocation: false

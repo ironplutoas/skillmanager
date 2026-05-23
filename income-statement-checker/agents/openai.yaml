@@ -1,0 +1,7 @@
+interface:
+  display_name: "Income Statement Checker"
+  short_description: "Inspect income statements and earnings quality."
+  default_prompt: "Use $income-statement-checker to inspect this company's income statement, highlight the highest-value anomalies, and tell me what to verify next in the filing."
+
+policy:
+  allow_implicit_invocation: true

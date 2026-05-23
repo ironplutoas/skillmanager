@@ -1,0 +1,7 @@
+interface:
+  display_name: "并行 Agent 调度"
+  short_description: "当面对 2 个以上可以独立进行的任务时使用"
+  default_prompt: "使用 $dispatching-parallel-agents 并行处理多个独立任务"
+
+policy:
+  allow_implicit_invocation: false

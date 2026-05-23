@@ -1,0 +1,7 @@
+interface:
+  display_name: "Bloom Tutor"
+  short_description: "Three-stage Bloom and SOLO learning coach"
+  default_prompt: "Use $bloom-tutor to coach me through a topic in three stages without giving answers too early."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文文档写作"
+  short_description: "中文技术文档写作规范——排版、术语、结构一步到位"
+  default_prompt: "使用 $chinese-documentation 帮我编写技术文档"
+
+policy:
+  allow_implicit_invocation: false

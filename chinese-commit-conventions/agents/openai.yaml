@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文提交规范"
+  short_description: "中文 Git 提交规范 — 适配国内团队的 commit message 规范"
+  default_prompt: "使用 $chinese-commit-conventions 帮我编写符合规范的 commit message"
+
+policy:
+  allow_implicit_invocation: false
